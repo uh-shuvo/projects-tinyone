@@ -1,0 +1,43 @@
+
+font-family: 'PT Sans', sans-serif;
+
+color=#010101
+ash=#898989
+yellow=#fcdb00
+
+
+
+
+font size ====
+
+xxl-xl-lg      md      sm-col
+22px           22px
+
+slider
+
+h1   32       32        25
+h2   20       20        20 
+p    16       16        16
+icon  42      42        35
+
+
+
+padding ====
+
+
+xxl-xl-lg      md      sm-col
+20px           20px    10px
+
+slider
+100px          100px    60px
+
+
+
+
+
+              <ul class="list-inline">
+                <li class="list-inline-item"><i class="fab fa-facebook-square"></i></li>   
+                <li class="list-inline-item"><i class="fab fa-twitter-square"></i></li>   
+                <li class="list-inline-item"><i class="fab fa-google-plus-square"></i></li>   
+                <li class="list-inline-item"><i class="fab fa-pinterest-square"></i></li>   
+              </ul>

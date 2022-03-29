@@ -1,0 +1,174 @@
+/*common css start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989
+}
+/*common css end*/
+
+/*header start*/
+header{
+	background-color: #fcdb00;
+    padding: 20px 0;
+}
+.menu{}
+.menu ul li a{
+    margin: 0 35px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+/*header end*/
+
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+/*indicator*/
+.cid {
+	bottom: -80px;
+}
+.cid .active {
+    opacity: 1;
+}
+.cid [data-bs-target] {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+/*indicator*/
+.s-text{
+	margin-top: 70px;
+}
+.s-text h1{
+	margin: 0;
+	font-weight: 700;
+	font-size: 32px;
+	color: #010101;
+}
+.s-text h2{
+	margin: 20px 0;
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+}
+.s-text p{
+	margin-bottom: 40px;
+	color: #555555;
+	line-height: 22px;
+}
+.s-icon li i{
+	margin-right: 35px;
+	font-size: 42px;
+	color:#010101 ;
+}
+.s-image{
+	margin-top: 109px;
+}
+.s-image img{
+	text-align: center;
+}
+/*slider end*/
+/* feature start */
+.f-padding{
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+.c-feature{
+}
+.c-h1{
+	font-weight: 700;
+	font-size: 32px;
+	color: #010101;
+}
+.c-p{
+	margin-top: 10px;
+    font-size: 15px;
+    line-height: 20px;
+	color: #313841;
+}
+.m-t{
+	margin-top: 70px;
+}
+.fc-icon{
+	margin-top: -5px;
+    font-size: 45px;
+	color: #010101;
+}
+.fc-icon i{}
+.f-text{
+}
+.f-text h3{
+	font-weight: 400;
+	color: #010101;
+}
+.f-text p{
+	color: #898989;
+}
+/* feature end */
+/* contact start */
+.contact{
+	background-color:#010101 ;
+}
+.c-feature{}
+.yellow{
+	color: #fcdb00;
+}
+.c-p{
+	color: #898989;
+}
+.c-form{
+	margin-top: 35px;
+	margin-bottom: 70px;
+}
+.c-input{
+	width: 100%;
+	height: 50px;
+	color: #898989;
+}
+.c-button{
+	width: 100%;
+	height: 50px;
+	background-color: #fcdb00;
+	font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #010101;
+	text-transform: uppercase;
+}
+.c-icon1{}
+.c-icon1 ul i{
+	margin-right: 20px;
+	font-size: 42px;
+	color: #fcdb00;
+}
+.c-icon1 ul i:hover{
+	color: white;
+}
+/* contact end */
+/* footer start */
+.footer{
+	background-color: black;
+}
+.f1{
+}
+.f1 address{
+	color: white;
+}
+.f2{
+}
+.f2 ul li a{
+	text-decoration: none;
+    color: white;
+}
+.f2 ul li a:hover{
+	color:#fcdb00;
+}
+/* footer end */
